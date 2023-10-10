@@ -9,7 +9,7 @@
 body {
   background: linear-gradient(
     90deg,
-    rgb(120, 120, 122) 0%,
+    rgba(100, 115, 255, 1) 0%,
     rgba(100, 115, 255, 1) 100%
   );
 }
@@ -144,7 +144,7 @@ h1 {
 
 .reset-button{
   height: 40px;
-  width: 3.2vw;
+  width: 60px;
   right: 9%;
   position: absolute;
 
